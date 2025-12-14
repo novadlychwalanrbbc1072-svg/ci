@@ -1,0 +1,5 @@
+{
+  "name": "词典",
+  "description": "A refined Chinese dictionary application powered by AI. Features instant definitions, ancient & modern comparisons, example sentences, and a vocabulary collection system.",
+  "requestFramePermissions": []
+}

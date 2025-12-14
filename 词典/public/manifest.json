@@ -1,0 +1,27 @@
+{
+  "name": "汉韵词典",
+  "short_name": "汉韵",
+  "description": "探寻古今，汉韵词典 - AI 智能汉语助手",
+  "id": "hanyun-app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#b91c1c",
+  "orientation": "portrait-primary",
+  "categories": ["education", "reference", "books"],
+  "icons": [
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/noto-emoji/15.0.3/512/emoji_u1f4dc.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/noto-emoji/15.0.3/512/emoji_u1f4dc.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
